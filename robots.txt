@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://qaisfarooq.github.io/run-to-the-podium/sitemap.xml
