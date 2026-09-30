@@ -40,4 +40,4 @@ Found a bug or have an idea? [Open an issue](../../issues). If you enjoyed the g
 
 Created, designed and written by **Qais & Hamdan Farooq**. © 2026, all rights reserved.
 
-Circuit layouts are traced from the MIT-licensed [bacinger/f1-circuits](https://github.com/bacinger/f1-circuits) dataset and from public-domain Wikimedia Commons diagrams. See the notice at the top of `index.html` for details. Every team, driver and livery is invented. This is an independent fan-made game, not an official product, and it isn't associated with any racing series.
+Circuit layouts are traced from an MIT-licensed open circuit dataset and from public-domain Wikimedia Commons diagrams. See the notice at the top of `index.html` for details. Every team, driver and livery is invented. This is an independent fan-made game, not an official product, and it isn't associated with any racing series.
